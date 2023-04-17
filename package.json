@@ -13,6 +13,7 @@
     "npm": "8.12.1"
   },
   "dependencies": {
+    "@vueuse/core": "^10.0.2",
     "@vueuse/integrations": "^9.13.0",
     "dayjs": "^1.11.7",
     "focus-trap": "^7.4.0",
